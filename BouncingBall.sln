@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BouncingBall", "BouncingBall\BouncingBall.csproj", "{48806835-1370-4296-B6D0-6925FB803190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48806835-1370-4296-B6D0-6925FB803190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48806835-1370-4296-B6D0-6925FB803190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48806835-1370-4296-B6D0-6925FB803190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48806835-1370-4296-B6D0-6925FB803190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
